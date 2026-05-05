@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">CalculatorApp</string>
+    <style name="Base.Theme.CalculatorApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CalculatorApp" parent="Base.Theme.CalculatorApp"/>
+    <style name="btnNum">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:backgroundTint">#2E2E2E</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="btnOp">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:backgroundTint">#FF9800</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
