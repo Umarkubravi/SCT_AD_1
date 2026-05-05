@@ -1,6 +1,7 @@
 .gradle/
 .idea/
 build/
+app/build/
 local.properties
 *.imgit rm -r --cached .gradle
     git rm -r --cached .idea

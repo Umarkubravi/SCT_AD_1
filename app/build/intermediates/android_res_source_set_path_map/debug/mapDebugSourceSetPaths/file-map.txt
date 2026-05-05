@@ -1,8 +1,0 @@
-com.example.calculatorapp-pngs-0 C:\Users\Umar\AndroidStudioProjects\CalculatorApp\app\build\generated\res\pngs\debug
-com.example.calculatorapp-updated_navigation_xml-1 C:\Users\Umar\AndroidStudioProjects\CalculatorApp\app\build\generated\updated_navigation_xml\debug
-com.example.calculatorapp-packageDebugResources-2 C:\Users\Umar\AndroidStudioProjects\CalculatorApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.calculatorapp-packageDebugResources-3 C:\Users\Umar\AndroidStudioProjects\CalculatorApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.calculatorapp-debug-4 C:\Users\Umar\AndroidStudioProjects\CalculatorApp\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.calculatorapp-debug-5 C:\Users\Umar\AndroidStudioProjects\CalculatorApp\app\src\debug\res
-com.example.calculatorapp-main-6 C:\Users\Umar\AndroidStudioProjects\CalculatorApp\app\src\main\res
-gradleHome-0 C:\Users\Umar\.gradle
